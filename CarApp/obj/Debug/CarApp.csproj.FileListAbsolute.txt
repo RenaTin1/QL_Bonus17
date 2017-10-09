@@ -1,0 +1,7 @@
+C:\Users\ReeNee1\source\repos\CarApp\CarApp\bin\Debug\CarApp.exe.config
+C:\Users\ReeNee1\source\repos\CarApp\CarApp\bin\Debug\CarApp.exe
+C:\Users\ReeNee1\source\repos\CarApp\CarApp\bin\Debug\CarApp.pdb
+C:\Users\ReeNee1\source\repos\CarApp\CarApp\obj\Debug\CarApp.csprojResolveAssemblyReference.cache
+C:\Users\ReeNee1\source\repos\CarApp\CarApp\obj\Debug\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\ReeNee1\source\repos\CarApp\CarApp\obj\Debug\CarApp.exe
+C:\Users\ReeNee1\source\repos\CarApp\CarApp\obj\Debug\CarApp.pdb
