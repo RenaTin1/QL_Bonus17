@@ -16,8 +16,8 @@ namespace CarApp
         private int year;
         private double price;
 
-        //Method
-        public void CarDetails()
+        //Method  (not included in the main)
+       public void CarDetails()
         {
             Console.WriteLine("Please enter the Make of the car:");
             Console.ReadLine();
@@ -62,7 +62,7 @@ namespace CarApp
             year = 0;
             price = 0;
         }
-        public Car(string CarMake, string CarModel, int CarYear, double CarPrice) //constructor w/parameters
+       public Car(string CarMake, string CarModel, int CarYear, double CarPrice) //constructor w/parameters
         {
             make = CarMake; // class member and parameters 
 
